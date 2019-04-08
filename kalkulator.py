@@ -1,7 +1,6 @@
 print("To jest prosty kalkulator")
 def dodaj():
-	a = int(input())
-	b = int(input())
+	return 
 	print(a+b)
 
 print('koniec programu')
